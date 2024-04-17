@@ -1,0 +1,7 @@
+Lambda: baseline
+
+Total Accuracy: 0.7231036953628825
+Total Predicted Yes: 0.5697614904289078
+Accuracy Non Sensitive: 0.6508256141763995
+Accuracy Sensitive: 0.7978346866541745
+
