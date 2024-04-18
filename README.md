@@ -1,4 +1,4 @@
-# ****Title
+# To Be Fair: Interrogating Fairness Through Blindness in Fair Representation Learning
 ## Running DANN Code
 There is a file for each dataset and sensitive attribute to train the corresponding DANN.
 The SCF data was to large to add to the repository, but it will need to be added to the DANN folder to run either SCF notebook. 
